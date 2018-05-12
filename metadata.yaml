@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35278'
     url: http://www.gutenberg.org/2009/agents/35278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31506#The-Sweet-Girl-Graduates--A-Farce-in-Three-Acts-and-an-Epilogue
 gutenberg_issued: '2010-03-04'
 gutenberg_type: Text
 identifiers:
